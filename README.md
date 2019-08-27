@@ -1,6 +1,5 @@
 # lab_0502_MVC_week10
-## MVC完成簡易計算機
-###
+### MVC完成簡易計算機
 
 
 * CalcControl.java:MVC的Controller -- 處理監聽
@@ -9,9 +8,8 @@
 
 
 
-#
-* 計算機GUI
-###
+### 計算機GUI
+
 畫面:
 
 ![image](https://github.com/LouisJhuang/lab_0502_MVC_week10/blob/master/MVC_CalcControl.png)
