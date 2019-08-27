@@ -4,7 +4,7 @@
 
 * CalcControl.java:MVC的Controller -- 處理監聽
 * CalcCore.java:MVC的Model --處理核心功能
-* CasioForm.java:MVC的Model --處理核心功能
+* CasioForm.java:MVC的View
 
 
 
