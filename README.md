@@ -1,6 +1,7 @@
 # lab_0502_MVC_week10
-MVC完成簡易計算機
+
 ###
+MVC完成簡易計算機
 
 * CalcControl.java:MVC的Controller -- 處理監聽
 * CalcCore.java:MVC的Model --處理核心功能
